@@ -1,0 +1,10 @@
+LARAVEL 4.2 based application "READ-It-Later" app.
+
+Simply entry of the url and it's description to use it later.
+
+Use of version control. api/v1 for simple storing and displaying new and existing list respectively. api/v2 for the use of 
+update and delete capabilities also.
+
+Capability of sending mail(via localhost) via SMTP by a default gmail address, host of smtp.gmail.com.
+
+
